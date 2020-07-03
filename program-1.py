@@ -1,29 +1,16 @@
 '''
 Programmer: Mahrokh Ebrahimi
-Discroption: Write a program using for loop to find the square of numbers from 1-10.
 
-Hint: The operator for square is **
+Discroption:
+A consignment shop accepts a product for sale and sets an initial price. Each month that the item doesn’t sell, the price is reduced by 20 percent. When the item sells, the item’s owner receives 60 percent of the sale price, and the shop gets 40 percent. Draw a flowchart and write pseudocode to represent the logic of a program that allows the user to enter an original product price. The output is the sale price, the owner’s cut, and the shop’s cut each month for the first three months the item is on sale.
 
-Sample Output:
-
- number          square
-========================
-   1             1
-   2             4
-   3             9
-   4             16
-   5             25
-   6             36
-   7             49
-   8             64
-   9             81
-   10          100
-Date:6/30/2020
+Date: 6/30/2020
 
 '''
-square = 1
-for i in range(1, 11):
-   print(i,'= ', end = '')
-   square = i ** i 
-   print(square)
-   
+original_price = int(input('enter an original product price'))
+
+count = 0
+price = 0
+if (price > 0):
+    count +=1
+    

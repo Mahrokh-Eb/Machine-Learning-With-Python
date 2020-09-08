@@ -18,15 +18,7 @@ My workshop on machine learning using python language to implement different alg
 - A good understaning of Machine Learning.
 - Linear Algebra
 
-## Videos in YouTube (in Persian):
-- http://www.youtube.com/c/SeyedNaserRazavi
 
-## My website Address:
-- containing anything you need to learn and of course to use machine learning in real world applications:
-- http://wwww.snrazavi.ir/
-
-## The workshop page on my website:
-- http://www.snrazavi.ir/ml-with-python/
 
 **Note:** The materials of this workshop are inspired from awesome lectures presented by Andrej Karpathy at Stanford, 2016.
 
